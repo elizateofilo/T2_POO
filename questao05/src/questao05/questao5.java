@@ -2,10 +2,6 @@ package questao05;
 import java.util. Scanner;
 public class questao5 {
 
-	public questao5() {
-	
-	}
-
 	public static void main(String[] args) {
 	int n, num, i, j, fat;
   Scanner fatorial;
