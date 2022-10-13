@@ -3,7 +3,7 @@ import java.util. Scanner;
 public class questao5 {
 
 	public questao5() {
-		// TODO Auto-generated constructor stub
+	
 	}
 
 	public static void main(String[] args) {
@@ -16,7 +16,7 @@ public class questao5 {
   n = fatorial.nextInt();
 		 
   for( i=1; i<=n; i++) {
-	  System.out.println("\n Digite o "+ i +"º número");
+	  System.out.println("\n Digite o "+ i +"Âº nÃºmero");
       num = fatorial.nextInt();
       fat = 1 ;
       
